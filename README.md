@@ -7,6 +7,7 @@ genOMFF: A tool for generating Gromacs files for the OMFF force field
 
 If you used this package in your research, please cite them:
 
+```
 @Misc{,
     author = {Yi Dong,Junjie Song, Ming Ma, Mingwei Wan and Lianghui Gao},
     title = {genOMFF: A tool for generating Gromacs files for the OMFF force field},
@@ -24,3 +25,4 @@ If you used this package in your research, please cite them:
     doi={acs.jctc.5c01989}
     url={'https://doi.org/10.1021/acs.jctc.5c01989'}
 }
+```
