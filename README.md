@@ -8,12 +8,20 @@ genOMFF: A tool for generating Gromacs files for the OMFF force field
 If you used this package in your research, please cite them:
 
 ```
-@Misc{,
-    author = {Yi Dong,Junjie Song, Ming Ma, Mingwei Wan and Lianghui Gao},
-    title = {genOMFF: A tool for generating Gromacs files for the OMFF force field},
-    year = {2026--},
-    url = "https://github.com/Forestsene/genOMFF"
+
+
+
+@misc{
+DongSong-126,
+   Author = {Dong, Yi and Song, Junjie and Ma, Ming and Wan, Mingwei and Gao, Lianghui},
+   Title = {genOMFF: A tool for generating Gromacs files for the OMFF force field},
+   Year = {2025}
+   url = "https://github.com/Forestsene/genOMFF"
 }
+
+
+
+
 
 @article{Yi-2026,
     title={Bayesian Optimization of the Coarse-Grained Force Field for Ions and Ionic Surfactants Based on a Polarizable Water Model },
