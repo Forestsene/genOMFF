@@ -23,14 +23,16 @@ DongSong-126,
 
 
 
-@article{Yi-2026,
-    title={Bayesian Optimization of the Coarse-Grained Force Field for Ions and Ionic Surfactants Based on a Polarizable Water Model },
-    author={Yi Dong, zhiqing zhao, Ming Ma, Li He, Jun-Jie Song, Lianghui Gao},
-    journal={Journal of Chemical Theory and Computation},
-    volume={ },
-    pages={ },
-    year={2026},
-    doi={acs.jctc.5c01989}
-    url={'https://doi.org/10.1021/acs.jctc.5c01989'}
+@article{Dong-2026,
+    author = {Dong, Yi and Zhao, Zhiqing and Ma, Ming and He, Li and Song, Junjie and Gao, Lianghui},
+    title = {Bayesian Optimization of the Coarse-Grained Force Field for Ions and Ionic Surfactants Based on a Polarizable Water Model},
+    journal = {Journal of Chemical Theory and Computation},
+    volume = {0},
+    number = {0},
+    pages = {null},
+    year = {2026},
+    doi = {10.1021/acs.jctc.5c01989},
+    note ={PMID: 41587923},
+    URL = {https://doi.org/10.1021/acs.jctc.5c01989},
 }
 ```
